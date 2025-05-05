@@ -1,6 +1,6 @@
 # Wanderlust Chronicles Project documentation
 
-LIVE WEBSITE 👉 - []
+LIVE WEBSITE 👉 - [https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-CHEGEBB/]
 
 A responsive multi-page travel blog website with modern design and interactive features.
 
